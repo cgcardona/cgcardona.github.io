@@ -863,8 +863,14 @@ p {
   font-weight: 700;
 }
 
+#about .about-img img, #about .about-img-2 img {
+  width: 75%;
+  border-radius: 1%;
+}
+
 .hero-img img {
   border-radius: 1%;
+  width: 90%;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
