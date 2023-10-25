@@ -651,7 +651,7 @@ p {
 
 .sticky .navbar-brand {
   padding: 0;
-  color: #5864FF;
+  color: white;
   font-size: 3em;
 }
 
@@ -878,7 +878,7 @@ p {
 
 .hero-img img {
   border-radius: 1%;
-  width: 90%;
+  width: 92.75%;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
