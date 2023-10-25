@@ -737,13 +737,17 @@ p {
   z-index: 1;
 }
 
+.sticky .navbar-nav .nav-item a::before {
+  background: #5864FF;
+}
+
 .navbar-nav .nav-item a::before {
   content: "";
   position: absolute;
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #fdd446;
+  background: white;
   bottom: 15px;
   left: 0;
   z-index: -1;
