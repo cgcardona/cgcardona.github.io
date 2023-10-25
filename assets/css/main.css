@@ -645,6 +645,14 @@ p {
 
 .navbar-brand {
   padding: 0;
+  color: white;
+  font-size: 3em;
+}
+
+.sticky .navbar-brand {
+  padding: 0;
+  color: #5864FF;
+  font-size: 3em;
 }
 
 .navbar-brand img {
